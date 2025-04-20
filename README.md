@@ -22,11 +22,20 @@ Input characters via a .txt file and specify drawing frequency.
 ## Features
 
 - Light/dark mode toggle
-- Live previews
+- Changable Grid Size
 - Fullscreen mode
 - Cross platform
 
 
+## Screenshots
+
+![Main](https://github.com/nityam-vasu/Character-Set-Creator/blob/main/screenshots/Main.png)
+
+![Grid](https://github.com/nityam-vasu/Character-Set-Creator/blob/main/screenshots/Drawing.png)
+
+![a](https://github.com/nityam-vasu/Character-Set-Creator/blob/main/screenshots/a.png)
+
+![b](https://github.com/nityam-vasu/Character-Set-Creator/blob/main/screenshots/b.png)
 
 
 ## Installation
