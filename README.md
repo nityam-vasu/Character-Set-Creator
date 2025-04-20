@@ -46,6 +46,7 @@ Clone the repository:
 ```bash
   git clone https://github.com/nityam-vasu/character-set-creator.git
   cd character-set-creator
+  python3 app.py
   ```
 
 
